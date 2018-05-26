@@ -1,0 +1,4 @@
+Chain code 1: 5 6 5 7 0 0 0 3 2 2 3 
+First Diff 1: 1 7 2 1 0 0 3 7 0 1 2 
+Shape Nums 1: 370121721
+
