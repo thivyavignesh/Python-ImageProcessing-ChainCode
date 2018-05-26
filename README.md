@@ -1,2 +1,3 @@
-# Python-ImageProcessing-ChainCode
-find the chains of objects in order to identify the size and shape
+# Shape Number Descriptor
+
+Computes Chain code, First Difference and finally the <b>Shape Number</b>
